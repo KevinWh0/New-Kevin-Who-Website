@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Malcookie",
+      "image": "https://img.itch.zone/aW1nLzQ5NzQ1OTQuZ2lm/315x250%23c/HWxrIT.gif",
+      "linkPage": "https://kevinwho.itch.io/malcookie",
+      "categorys": ["Game", "Gamejam", "Windows"]
+    },
+    {
+      "name": "The Devils Dungeon",
+      "image": "https://img.itch.zone/aW1nLzQ0NTU3OTAucG5n/315x250%23c/v9cnMx.png",
+      "linkPage": "https://kevinwho.itch.io/the-devils-dungeon",
+      "categorys": ["Game", "Gamejam", "Web"]
+    },
+    {
+      "name": "The Bigger Picture",
+      "image": "https://img.itch.zone/aW1nLzQ4MjkxOTUucG5n/315x250%23c/RrbxsK.png",
+      "linkPage": "https://kevinwho.itch.io/the-bigger-picture",
+      "categorys": ["Game", "Gamejam", "Web"]
+    },
+    {
+      "name": "The Orbetorian",
+      "image": "https://img.itch.zone/aW1nLzUyNDg3MjkucG5n/315x250%23c/m0rzL1.png",
+      "linkPage": "https://the-orbetorian.itch.io/the-orbetorian",
+      "categorys": ["Game", "Mac", "Windows"]
+    },
+    {
+      "name": "Styled Youtube Captions",
+      "image": "https://user-images.githubusercontent.com/45321184/121992564-bdcad400-cd56-11eb-96c0-bb4821a7481b.png",
+      "linkPage": "https://github.com/KevinWh0/Styled-Youtube-Captions",
+      "categorys": ["Tool", "Web"]
+    },
+    {
+      "name": "Bundle Art Generator for Minecraft",
+      "image": "https://user-images.githubusercontent.com/45321184/114342313-7d5d9880-9b10-11eb-9392-3ae5b8eeb7b9.png",
+      "linkPage": "https://github.com/KevinWh0/BundleArtGenerator",
+      "categorys": ["Tool", "Web"]
+    },
+    {
+      "name": "Friendbot (Discord Bot)",
+      "image": "https://cdn.discordapp.com/avatars/754391594198630542/bd1d7734c6ff8d5aa0f5ca344fb53c56.png?size=256",
+      "linkPage": "https://discord.com/api/oauth2/authorize?client_id=742207515365867662&permissions=8&scope=applications.commands%20bot",
+      "categorys": ["Misc"]
+    }
+  ]
+}

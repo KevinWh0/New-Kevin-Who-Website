@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Project - Kevin who's Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="./styles/main.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="../shared_assets/styles/main.css"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@300;400&family=Zen+Dots&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/1e09d78c40.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div id="loadingContainer"></div>
+    <div id="mainContent">
+      <div id="codeContainer">
+        <p class="code" id="code"></p>
+      </div>
+      <a id="back" href="../home/index.html" style="color: white"
+        ><i class="fas fa-arrow-left"></i
+      ></a>
+      <h1 id="title">Projects</h1>
+      <div id="projectHolder">
+        <p id="command">GET ./projects</p>
+        <p id="response" class="red">Error Javascript Disabled</p>
+        <p id="response2" class="green"></p>
+        <div id="projectHolderProjects">
+          <div id="categorySelector"></div>
+        </div>
+      </div>
+    </div>
+    <script src="./scripts/main.js" type="module"></script>
+  </body>
+</html>
