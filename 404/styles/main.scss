@@ -1,8 +1,22 @@
+h1,
+p,
+a {
+  font-family: "Tomorrow", sans-serif;
+  font-weight: lighter;
+}
+
+image {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  -ms-interpolation-mode: nearest-neighbor;
+}
+
 #title {
   //text-align: center;
   color: white;
-  font-family: "Tomorrow", sans-serif;
-  font-weight: lighter;
+
   //font-size: 3.5em;
   font-size: 5.5vw;
   text-indent: calc(3.5em / 4);
@@ -21,8 +35,7 @@
 
 #desc {
   color: white;
-  font-family: "Tomorrow", sans-serif;
-  font-weight: lighter;
+
   font-size: 0.8vw;
   text-indent: calc(1.5em / 4);
 
@@ -51,7 +64,10 @@ a {
   animation: loadPageback 1s 1, glitch-skew 1s infinite;
   white-space: nowrap;
 }
-
+#error {
+  color: red;
+  animation: errloadPage 1s infinite;
+}
 @keyframes loadPageback {
   0% {
     color: transparent;
@@ -62,6 +78,18 @@ a {
     color: red;
     top: 80%;
     letter-spacing: 0.6em;
+  }
+}
+
+@keyframes errloadPage {
+  0% {
+    color: rgb(161, 0, 0);
+  }
+  50% {
+    color: red;
+  }
+  100% {
+    color: rgb(161, 0, 0);
   }
 }
 
@@ -122,4 +150,33 @@ $glitch-colors: rgba(248, 12, 255, 0.6), #ff0000, #0000ff;
       clip: rect(random(100) + px, 9999px, random(100) + px, 0);
     }
   }
+}
+
+//Extra (pancakes and stuff)
+
+#pancake {
+  top: 100%;
+  left: 10px;
+  transform: translate(50%, -200%);
+}
+
+.gravity {
+  position: absolute;
+  animation: fall 5s 1;
+}
+@keyframes fall {
+  0% {
+    top: -10%;
+  }
+  100% {
+    top: 100%;
+  }
+}
+
+#randomHolder {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  height: 100%;
 }
