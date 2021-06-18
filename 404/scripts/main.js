@@ -36,8 +36,56 @@ let text = [
       document.getElementById("randomHolder").appendChild(img);
     },
   },
-  "Huh,",
+  "Huh, do you want more pancakes?",
+  {
+    text: "Fine here have more pancakes",
+    func: () => {
+      summonPancakes(10);
+    },
+  },
 ];
+
+function summonPancakes(count, url = "./404/assets/Pancake.png") {
+  //for (var i = 0; i < 100; i++) {
+  let img = document.createElement("img");
+  img.setAttribute("src", url);
+  img.classList = "gravity";
+  //img.id = "pancake";
+  img.style.width = "32px";
+  img.style.height = "32px";
+  img.setAttribute(
+    "style",
+    `transform: translate(50%, -200%); top:100%; left:${
+      Math.random() * window.innerWidth
+    }px`
+  );
+
+  document.getElementById("randomHolder").appendChild(img);
+  setTimeout(function () {
+    if (count > 0) summonPancakes(count - 1, url);
+  }, 200);
+  //}
+}
+
+function summonFallingText(text, total) {
+  //for (var i = 0; i < 100; i++) {
+  let t = document.createElement("p");
+  t.innerHTML = text;
+  t.setAttribute(
+    "style",
+    `transform: translate(50%, -200%); top:100%; left:${
+      Math.random() * window.innerWidth
+    }px`
+  );
+  t.classList = "gravity red";
+
+  document.getElementById("randomHolder").appendChild(t);
+  setTimeout(function () {
+    if (total > 0) summonFallingText(text, total - 1);
+  }, 200);
+  //}
+}
+
 let counter = -1;
 function getNextText() {
   setTimeout(function () {
@@ -56,3 +104,14 @@ function getNextText() {
 }
 
 getNextText();
+
+//Add click slant to 404 title
+let pokeCount = 0;
+document.getElementById("title").addEventListener("click", () => {
+  document.getElementById("desc").innerHTML = "Stop poking me";
+  pokeCount++;
+  if (pokeCount == 4) {
+    summonPancakes(10, "./404/assets/warning.png");
+    summonFallingText("Error: on line 17", 10);
+  }
+});

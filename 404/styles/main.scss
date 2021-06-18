@@ -26,9 +26,10 @@ image {
   position: absolute;
   top: 50%;
   right: 50%;
-  transform: translate(50%, -50%);
+  //transform: translate(50%, -50%);
   //font-family: "Zen Dots";
   animation: loadPageTitle 2s, intro-glitch 1s 1, glitch-skew 1s infinite;
+
   //animation-name: loadPageTitle;
   //animation-duration: 1s;
 }
@@ -153,7 +154,9 @@ $glitch-colors: rgba(248, 12, 255, 0.6), #ff0000, #0000ff;
 }
 
 //Extra (pancakes and stuff)
-
+.red {
+  color: red;
+}
 #pancake {
   top: 100%;
   left: 10px;
