@@ -70,7 +70,7 @@ function summonPancakes(count, url = "./404/assets/Pancake.png") {
 function summonFallingText(text, total) {
   //for (var i = 0; i < 100; i++) {
   let t = document.createElement("p");
-  t.innerHTML = text;
+  t.innerHTML = text.replace(/rnd/g, Math.round(Math.random() * 100));
   t.setAttribute(
     "style",
     `transform: translate(50%, -200%); top:100%; left:${
@@ -112,6 +112,6 @@ document.getElementById("title").addEventListener("click", () => {
   pokeCount++;
   if (pokeCount == 4) {
     summonPancakes(10, "./404/assets/warning.png");
-    summonFallingText("Error: on line 17", 10);
+    summonFallingText("Error: on line rnd", 10);
   }
 });
