@@ -1,0 +1,175 @@
+#background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 100vh;
+  #codeContainer {
+    width: 40vw;
+    height: 100vh;
+    overflow: scroll;
+  }
+  #codeContainer::-webkit-scrollbar {
+    display: none;
+  }
+  .code {
+    font-family: "Zen Dots";
+    font-size: 0.6em;
+    color: rgba(255, 255, 255, 0.144);
+    white-space: pre-wrap;
+    transform: skew(15deg, 15deg);
+  }
+}
+#mainContent {
+  //The rest of the styling is done in the shared assets css
+  //intro shake
+  animation: shake 0.5s steps(6);
+}
+
+@keyframes shake {
+  $steps: 30;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      transform: translate((random(30)-15) + px, (random(30)-15) + px);
+    }
+  }
+}
+@keyframes flicker {
+  0% {
+    background: linear-gradient(
+      to bottom,
+      black,
+      black 50%,
+      #000a2f 50%,
+      #000a2f
+    );
+    background-size: 100% 8px;
+  }
+  20% {
+    background: linear-gradient(
+      to bottom,
+      black,
+      black 50%,
+      #000a3a 50%,
+      #000a3a
+    );
+    background-size: 100% 8px;
+  }
+  100% {
+    background: linear-gradient(
+      to bottom,
+      black,
+      black 50%,
+      #000a2f 50%,
+      #000a2f
+    );
+    background-size: 100% 8px;
+  }
+}
+
+#title {
+  //text-align: center;
+  color: white;
+  font-family: "Tomorrow", sans-serif;
+  font-weight: lighter;
+  //font-size: 3.5em;
+  font-size: 5.5vw;
+  text-indent: calc(3.5em / 4);
+
+  letter-spacing: 1em;
+
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  //font-family: "Zen Dots";
+  animation: loadPageTitle 2s, intro-glitch 1s 1, glitch-skew 1s infinite;
+  //animation-name: loadPageTitle;
+  //animation-duration: 1s;
+}
+
+.introg {
+  animation: intro-glitch 1s 1;
+}
+
+@keyframes loadPageTitle {
+  0% {
+    letter-spacing: 2.5em;
+  }
+  100% {
+    letter-spacing: 1em;
+  }
+}
+
+$glitch-colors: rgba(248, 12, 255, 0.6), #ff0000, #0000ff;
+
+// Does the same deal as before, but now only skews. Used for main text.
+@keyframes glitch-skew {
+  $steps: 30;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      //height: random(3) + px;
+
+      @if random(100) < 10 {
+        text-shadow: 2px
+          2px
+          nth($glitch-colors, random(length($glitch-colors)));
+      } @else {
+        text-shadow: 2px 2px transparent;
+      }
+      transform: skew((random(4) - 2) + deg) translate(50%, -50%);
+    }
+  }
+}
+
+@keyframes intro-glitch {
+  $steps: 50;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      height: random(30) + px;
+
+      @if random(100) < 10 {
+        box-shadow: -(random(200) + 100) +
+          px
+          (random(50) + 10) +
+          px
+          0px
+          0px
+          nth($glitch-colors, random(length($glitch-colors)));
+      } @else {
+        box-shadow: -13px -15px -100px 0px transparent;
+      }
+      @if random(100) < 10 {
+        text-shadow: 2px
+          2px
+          nth($glitch-colors, random(length($glitch-colors)));
+      } @else {
+        text-shadow: 2px 2px transparent;
+      }
+      clip: rect(random(100) + px, 9999px, random(100) + px, 0);
+    }
+  }
+}
+
+#navbar {
+  position: absolute;
+  bottom: 20%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  width: 50%;
+  //background-color: red;
+  //flex
+  display: flex;
+  align-items: center;
+  list-style: none;
+  justify-content: space-evenly;
+
+  //align-content: space-around;
+
+  a {
+    color: white;
+    font-family: "Tomorrow", sans-serif;
+    font-weight: lighter;
+    //margin: 10px;
+  }
+}
