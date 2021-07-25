@@ -173,3 +173,11 @@ $glitch-colors: rgba(248, 12, 255, 0.6), #ff0000, #0000ff;
     //margin: 10px;
   }
 }
+
+#nodeParticles {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 100vh;
+}

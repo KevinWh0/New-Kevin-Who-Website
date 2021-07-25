@@ -30,255 +30,255 @@
 
 @-webkit-keyframes shake {
   0% {
-    -webkit-transform: translate(7px, -7px);
-            transform: translate(7px, -7px);
+    -webkit-transform: translate(-2px, 15px);
+            transform: translate(-2px, 15px);
   }
   3.33333% {
-    -webkit-transform: translate(-7px, 7px);
-            transform: translate(-7px, 7px);
+    -webkit-transform: translate(-12px, -7px);
+            transform: translate(-12px, -7px);
   }
   6.66667% {
-    -webkit-transform: translate(10px, 3px);
-            transform: translate(10px, 3px);
+    -webkit-transform: translate(12px, 1px);
+            transform: translate(12px, 1px);
   }
   10% {
-    -webkit-transform: translate(-13px, -12px);
-            transform: translate(-13px, -12px);
+    -webkit-transform: translate(11px, -10px);
+            transform: translate(11px, -10px);
   }
   13.33333% {
-    -webkit-transform: translate(7px, 8px);
-            transform: translate(7px, 8px);
+    -webkit-transform: translate(-5px, -3px);
+            transform: translate(-5px, -3px);
   }
   16.66667% {
-    -webkit-transform: translate(-1px, 6px);
-            transform: translate(-1px, 6px);
+    -webkit-transform: translate(2px, 14px);
+            transform: translate(2px, 14px);
   }
   20% {
-    -webkit-transform: translate(-2px, 0px);
-            transform: translate(-2px, 0px);
-  }
-  23.33333% {
-    -webkit-transform: translate(6px, 10px);
-            transform: translate(6px, 10px);
-  }
-  26.66667% {
-    -webkit-transform: translate(8px, 10px);
-            transform: translate(8px, 10px);
-  }
-  30% {
-    -webkit-transform: translate(5px, -8px);
-            transform: translate(5px, -8px);
-  }
-  33.33333% {
-    -webkit-transform: translate(-7px, -11px);
-            transform: translate(-7px, -11px);
-  }
-  36.66667% {
-    -webkit-transform: translate(-9px, 4px);
-            transform: translate(-9px, 4px);
-  }
-  40% {
-    -webkit-transform: translate(-10px, -10px);
-            transform: translate(-10px, -10px);
-  }
-  43.33333% {
-    -webkit-transform: translate(6px, -5px);
-            transform: translate(6px, -5px);
-  }
-  46.66667% {
-    -webkit-transform: translate(1px, 0px);
-            transform: translate(1px, 0px);
-  }
-  50% {
-    -webkit-transform: translate(14px, -4px);
-            transform: translate(14px, -4px);
-  }
-  53.33333% {
-    -webkit-transform: translate(-1px, -8px);
-            transform: translate(-1px, -8px);
-  }
-  56.66667% {
-    -webkit-transform: translate(-2px, -1px);
-            transform: translate(-2px, -1px);
-  }
-  60% {
-    -webkit-transform: translate(9px, 6px);
-            transform: translate(9px, 6px);
-  }
-  63.33333% {
-    -webkit-transform: translate(4px, -11px);
-            transform: translate(4px, -11px);
-  }
-  66.66667% {
-    -webkit-transform: translate(7px, 7px);
-            transform: translate(7px, 7px);
-  }
-  70% {
-    -webkit-transform: translate(-1px, 10px);
-            transform: translate(-1px, 10px);
-  }
-  73.33333% {
     -webkit-transform: translate(-3px, 6px);
             transform: translate(-3px, 6px);
   }
+  23.33333% {
+    -webkit-transform: translate(-11px, -10px);
+            transform: translate(-11px, -10px);
+  }
+  26.66667% {
+    -webkit-transform: translate(-12px, 7px);
+            transform: translate(-12px, 7px);
+  }
+  30% {
+    -webkit-transform: translate(5px, 12px);
+            transform: translate(5px, 12px);
+  }
+  33.33333% {
+    -webkit-transform: translate(14px, 3px);
+            transform: translate(14px, 3px);
+  }
+  36.66667% {
+    -webkit-transform: translate(12px, 5px);
+            transform: translate(12px, 5px);
+  }
+  40% {
+    -webkit-transform: translate(-10px, -6px);
+            transform: translate(-10px, -6px);
+  }
+  43.33333% {
+    -webkit-transform: translate(-13px, -13px);
+            transform: translate(-13px, -13px);
+  }
+  46.66667% {
+    -webkit-transform: translate(-6px, -5px);
+            transform: translate(-6px, -5px);
+  }
+  50% {
+    -webkit-transform: translate(-3px, -10px);
+            transform: translate(-3px, -10px);
+  }
+  53.33333% {
+    -webkit-transform: translate(13px, -2px);
+            transform: translate(13px, -2px);
+  }
+  56.66667% {
+    -webkit-transform: translate(-6px, -4px);
+            transform: translate(-6px, -4px);
+  }
+  60% {
+    -webkit-transform: translate(6px, -6px);
+            transform: translate(6px, -6px);
+  }
+  63.33333% {
+    -webkit-transform: translate(0px, -14px);
+            transform: translate(0px, -14px);
+  }
+  66.66667% {
+    -webkit-transform: translate(15px, -7px);
+            transform: translate(15px, -7px);
+  }
+  70% {
+    -webkit-transform: translate(7px, 11px);
+            transform: translate(7px, 11px);
+  }
+  73.33333% {
+    -webkit-transform: translate(-7px, 3px);
+            transform: translate(-7px, 3px);
+  }
   76.66667% {
-    -webkit-transform: translate(2px, 2px);
-            transform: translate(2px, 2px);
+    -webkit-transform: translate(12px, -1px);
+            transform: translate(12px, -1px);
   }
   80% {
-    -webkit-transform: translate(-1px, 4px);
-            transform: translate(-1px, 4px);
+    -webkit-transform: translate(2px, 9px);
+            transform: translate(2px, 9px);
   }
   83.33333% {
-    -webkit-transform: translate(15px, -5px);
-            transform: translate(15px, -5px);
+    -webkit-transform: translate(6px, 3px);
+            transform: translate(6px, 3px);
   }
   86.66667% {
-    -webkit-transform: translate(15px, 4px);
-            transform: translate(15px, 4px);
+    -webkit-transform: translate(5px, 0px);
+            transform: translate(5px, 0px);
   }
   90% {
-    -webkit-transform: translate(3px, -4px);
-            transform: translate(3px, -4px);
+    -webkit-transform: translate(11px, -10px);
+            transform: translate(11px, -10px);
   }
   93.33333% {
-    -webkit-transform: translate(-7px, 13px);
-            transform: translate(-7px, 13px);
+    -webkit-transform: translate(1px, 8px);
+            transform: translate(1px, 8px);
   }
   96.66667% {
-    -webkit-transform: translate(-12px, -5px);
-            transform: translate(-12px, -5px);
+    -webkit-transform: translate(8px, 4px);
+            transform: translate(8px, 4px);
   }
   100% {
-    -webkit-transform: translate(-2px, -9px);
-            transform: translate(-2px, -9px);
+    -webkit-transform: translate(10px, 9px);
+            transform: translate(10px, 9px);
   }
 }
 
 @keyframes shake {
   0% {
-    -webkit-transform: translate(7px, -7px);
-            transform: translate(7px, -7px);
+    -webkit-transform: translate(-2px, 15px);
+            transform: translate(-2px, 15px);
   }
   3.33333% {
-    -webkit-transform: translate(-7px, 7px);
-            transform: translate(-7px, 7px);
+    -webkit-transform: translate(-12px, -7px);
+            transform: translate(-12px, -7px);
   }
   6.66667% {
-    -webkit-transform: translate(10px, 3px);
-            transform: translate(10px, 3px);
+    -webkit-transform: translate(12px, 1px);
+            transform: translate(12px, 1px);
   }
   10% {
-    -webkit-transform: translate(-13px, -12px);
-            transform: translate(-13px, -12px);
+    -webkit-transform: translate(11px, -10px);
+            transform: translate(11px, -10px);
   }
   13.33333% {
-    -webkit-transform: translate(7px, 8px);
-            transform: translate(7px, 8px);
+    -webkit-transform: translate(-5px, -3px);
+            transform: translate(-5px, -3px);
   }
   16.66667% {
-    -webkit-transform: translate(-1px, 6px);
-            transform: translate(-1px, 6px);
+    -webkit-transform: translate(2px, 14px);
+            transform: translate(2px, 14px);
   }
   20% {
-    -webkit-transform: translate(-2px, 0px);
-            transform: translate(-2px, 0px);
-  }
-  23.33333% {
-    -webkit-transform: translate(6px, 10px);
-            transform: translate(6px, 10px);
-  }
-  26.66667% {
-    -webkit-transform: translate(8px, 10px);
-            transform: translate(8px, 10px);
-  }
-  30% {
-    -webkit-transform: translate(5px, -8px);
-            transform: translate(5px, -8px);
-  }
-  33.33333% {
-    -webkit-transform: translate(-7px, -11px);
-            transform: translate(-7px, -11px);
-  }
-  36.66667% {
-    -webkit-transform: translate(-9px, 4px);
-            transform: translate(-9px, 4px);
-  }
-  40% {
-    -webkit-transform: translate(-10px, -10px);
-            transform: translate(-10px, -10px);
-  }
-  43.33333% {
-    -webkit-transform: translate(6px, -5px);
-            transform: translate(6px, -5px);
-  }
-  46.66667% {
-    -webkit-transform: translate(1px, 0px);
-            transform: translate(1px, 0px);
-  }
-  50% {
-    -webkit-transform: translate(14px, -4px);
-            transform: translate(14px, -4px);
-  }
-  53.33333% {
-    -webkit-transform: translate(-1px, -8px);
-            transform: translate(-1px, -8px);
-  }
-  56.66667% {
-    -webkit-transform: translate(-2px, -1px);
-            transform: translate(-2px, -1px);
-  }
-  60% {
-    -webkit-transform: translate(9px, 6px);
-            transform: translate(9px, 6px);
-  }
-  63.33333% {
-    -webkit-transform: translate(4px, -11px);
-            transform: translate(4px, -11px);
-  }
-  66.66667% {
-    -webkit-transform: translate(7px, 7px);
-            transform: translate(7px, 7px);
-  }
-  70% {
-    -webkit-transform: translate(-1px, 10px);
-            transform: translate(-1px, 10px);
-  }
-  73.33333% {
     -webkit-transform: translate(-3px, 6px);
             transform: translate(-3px, 6px);
   }
+  23.33333% {
+    -webkit-transform: translate(-11px, -10px);
+            transform: translate(-11px, -10px);
+  }
+  26.66667% {
+    -webkit-transform: translate(-12px, 7px);
+            transform: translate(-12px, 7px);
+  }
+  30% {
+    -webkit-transform: translate(5px, 12px);
+            transform: translate(5px, 12px);
+  }
+  33.33333% {
+    -webkit-transform: translate(14px, 3px);
+            transform: translate(14px, 3px);
+  }
+  36.66667% {
+    -webkit-transform: translate(12px, 5px);
+            transform: translate(12px, 5px);
+  }
+  40% {
+    -webkit-transform: translate(-10px, -6px);
+            transform: translate(-10px, -6px);
+  }
+  43.33333% {
+    -webkit-transform: translate(-13px, -13px);
+            transform: translate(-13px, -13px);
+  }
+  46.66667% {
+    -webkit-transform: translate(-6px, -5px);
+            transform: translate(-6px, -5px);
+  }
+  50% {
+    -webkit-transform: translate(-3px, -10px);
+            transform: translate(-3px, -10px);
+  }
+  53.33333% {
+    -webkit-transform: translate(13px, -2px);
+            transform: translate(13px, -2px);
+  }
+  56.66667% {
+    -webkit-transform: translate(-6px, -4px);
+            transform: translate(-6px, -4px);
+  }
+  60% {
+    -webkit-transform: translate(6px, -6px);
+            transform: translate(6px, -6px);
+  }
+  63.33333% {
+    -webkit-transform: translate(0px, -14px);
+            transform: translate(0px, -14px);
+  }
+  66.66667% {
+    -webkit-transform: translate(15px, -7px);
+            transform: translate(15px, -7px);
+  }
+  70% {
+    -webkit-transform: translate(7px, 11px);
+            transform: translate(7px, 11px);
+  }
+  73.33333% {
+    -webkit-transform: translate(-7px, 3px);
+            transform: translate(-7px, 3px);
+  }
   76.66667% {
-    -webkit-transform: translate(2px, 2px);
-            transform: translate(2px, 2px);
+    -webkit-transform: translate(12px, -1px);
+            transform: translate(12px, -1px);
   }
   80% {
-    -webkit-transform: translate(-1px, 4px);
-            transform: translate(-1px, 4px);
+    -webkit-transform: translate(2px, 9px);
+            transform: translate(2px, 9px);
   }
   83.33333% {
-    -webkit-transform: translate(15px, -5px);
-            transform: translate(15px, -5px);
+    -webkit-transform: translate(6px, 3px);
+            transform: translate(6px, 3px);
   }
   86.66667% {
-    -webkit-transform: translate(15px, 4px);
-            transform: translate(15px, 4px);
+    -webkit-transform: translate(5px, 0px);
+            transform: translate(5px, 0px);
   }
   90% {
-    -webkit-transform: translate(3px, -4px);
-            transform: translate(3px, -4px);
+    -webkit-transform: translate(11px, -10px);
+            transform: translate(11px, -10px);
   }
   93.33333% {
-    -webkit-transform: translate(-7px, 13px);
-            transform: translate(-7px, 13px);
+    -webkit-transform: translate(1px, 8px);
+            transform: translate(1px, 8px);
   }
   96.66667% {
-    -webkit-transform: translate(-12px, -5px);
-            transform: translate(-12px, -5px);
+    -webkit-transform: translate(8px, 4px);
+            transform: translate(8px, 4px);
   }
   100% {
-    -webkit-transform: translate(-2px, -9px);
-            transform: translate(-2px, -9px);
+    -webkit-transform: translate(10px, 9px);
+            transform: translate(10px, 9px);
   }
 }
 
@@ -360,8 +360,8 @@
 @-webkit-keyframes glitch-skew {
   0% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   3.33333% {
     text-shadow: 2px 2px transparent;
@@ -370,88 +370,88 @@
   }
   6.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   10% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   13.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
-  }
-  16.66667% {
-    text-shadow: 2px 2px transparent;
     -webkit-transform: skew(-1deg) translate(50%, -50%);
             transform: skew(-1deg) translate(50%, -50%);
+  }
+  16.66667% {
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   20% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(-1deg) translate(50%, -50%);
-            transform: skew(-1deg) translate(50%, -50%);
+    -webkit-transform: skew(2deg) translate(50%, -50%);
+            transform: skew(2deg) translate(50%, -50%);
   }
   23.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(-1deg) translate(50%, -50%);
-            transform: skew(-1deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   26.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   30% {
-    text-shadow: 2px 2px #0000ff;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  33.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
-  }
-  36.66667% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  40% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
-  }
-  43.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  46.66667% {
     text-shadow: 2px 2px transparent;
     -webkit-transform: skew(0deg) translate(50%, -50%);
             transform: skew(0deg) translate(50%, -50%);
   }
-  50% {
+  33.33333% {
     text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  36.66667% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  40% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
+  }
+  43.33333% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  46.66667% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(2deg) translate(50%, -50%);
+            transform: skew(2deg) translate(50%, -50%);
+  }
+  50% {
+    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
     -webkit-transform: skew(1deg) translate(50%, -50%);
             transform: skew(1deg) translate(50%, -50%);
   }
   53.33333% {
-    text-shadow: 2px 2px #ff0000;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   56.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   60% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   63.33333% {
     text-shadow: 2px 2px transparent;
@@ -469,9 +469,9 @@
             transform: skew(1deg) translate(50%, -50%);
   }
   73.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
+    text-shadow: 2px 2px #0000ff;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   76.66667% {
     text-shadow: 2px 2px transparent;
@@ -480,13 +480,13 @@
   }
   80% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   83.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   86.66667% {
     text-shadow: 2px 2px transparent;
@@ -495,18 +495,18 @@
   }
   90% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   93.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   96.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   100% {
     text-shadow: 2px 2px transparent;
@@ -518,8 +518,8 @@
 @keyframes glitch-skew {
   0% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   3.33333% {
     text-shadow: 2px 2px transparent;
@@ -528,88 +528,88 @@
   }
   6.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   10% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   13.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
-  }
-  16.66667% {
-    text-shadow: 2px 2px transparent;
     -webkit-transform: skew(-1deg) translate(50%, -50%);
             transform: skew(-1deg) translate(50%, -50%);
+  }
+  16.66667% {
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   20% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(-1deg) translate(50%, -50%);
-            transform: skew(-1deg) translate(50%, -50%);
+    -webkit-transform: skew(2deg) translate(50%, -50%);
+            transform: skew(2deg) translate(50%, -50%);
   }
   23.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(-1deg) translate(50%, -50%);
-            transform: skew(-1deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   26.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   30% {
-    text-shadow: 2px 2px #0000ff;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  33.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
-  }
-  36.66667% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  40% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
-  }
-  43.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
-  }
-  46.66667% {
     text-shadow: 2px 2px transparent;
     -webkit-transform: skew(0deg) translate(50%, -50%);
             transform: skew(0deg) translate(50%, -50%);
   }
-  50% {
+  33.33333% {
     text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  36.66667% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  40% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
+  }
+  43.33333% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
+  }
+  46.66667% {
+    text-shadow: 2px 2px transparent;
+    -webkit-transform: skew(2deg) translate(50%, -50%);
+            transform: skew(2deg) translate(50%, -50%);
+  }
+  50% {
+    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
     -webkit-transform: skew(1deg) translate(50%, -50%);
             transform: skew(1deg) translate(50%, -50%);
   }
   53.33333% {
-    text-shadow: 2px 2px #ff0000;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   56.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   60% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   63.33333% {
     text-shadow: 2px 2px transparent;
@@ -627,9 +627,9 @@
             transform: skew(1deg) translate(50%, -50%);
   }
   73.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(1deg) translate(50%, -50%);
-            transform: skew(1deg) translate(50%, -50%);
+    text-shadow: 2px 2px #0000ff;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   76.66667% {
     text-shadow: 2px 2px transparent;
@@ -638,13 +638,13 @@
   }
   80% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   83.33333% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(0deg) translate(50%, -50%);
-            transform: skew(0deg) translate(50%, -50%);
+    -webkit-transform: skew(1deg) translate(50%, -50%);
+            transform: skew(1deg) translate(50%, -50%);
   }
   86.66667% {
     text-shadow: 2px 2px transparent;
@@ -653,18 +653,18 @@
   }
   90% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   93.33333% {
-    text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    text-shadow: 2px 2px #ff0000;
+    -webkit-transform: skew(0deg) translate(50%, -50%);
+            transform: skew(0deg) translate(50%, -50%);
   }
   96.66667% {
     text-shadow: 2px 2px transparent;
-    -webkit-transform: skew(2deg) translate(50%, -50%);
-            transform: skew(2deg) translate(50%, -50%);
+    -webkit-transform: skew(-1deg) translate(50%, -50%);
+            transform: skew(-1deg) translate(50%, -50%);
   }
   100% {
     text-shadow: 2px 2px transparent;
@@ -675,721 +675,721 @@
 
 @-webkit-keyframes intro-glitch {
   0% {
-    height: 21px;
+    height: 18px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(71px, 9999px, 10px, 0);
+    clip: rect(22px, 9999px, 74px, 0);
   }
   2% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(18px, 9999px, 39px, 0);
-  }
-  4% {
-    height: 19px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(24px, 9999px, 9px, 0);
-  }
-  6% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(32px, 9999px, 12px, 0);
-  }
-  8% {
     height: 6px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(75px, 9999px, 49px, 0);
+    clip: rect(55px, 9999px, 49px, 0);
   }
-  10% {
-    height: 26px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(26px, 9999px, 83px, 0);
-  }
-  12% {
+  4% {
     height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(91px, 9999px, 52px, 0);
+    clip: rect(71px, 9999px, 24px, 0);
   }
-  14% {
-    height: 9px;
+  6% {
+    height: 23px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(50px, 9999px, 32px, 0);
+  }
+  8% {
+    height: 8px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px #0000ff;
-    clip: rect(1px, 9999px, 1px, 0);
+    clip: rect(55px, 9999px, 33px, 0);
+  }
+  10% {
+    height: 4px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(94px, 9999px, 19px, 0);
+  }
+  12% {
+    height: 20px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(58px, 9999px, 28px, 0);
+  }
+  14% {
+    height: 16px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(7px, 9999px, 90px, 0);
   }
   16% {
-    height: 5px;
+    height: 17px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(16px, 9999px, 16px, 0);
+    clip: rect(44px, 9999px, 94px, 0);
   }
   18% {
-    height: 29px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(94px, 9999px, 24px, 0);
+    clip: rect(26px, 9999px, 47px, 0);
   }
   20% {
-    height: 21px;
+    height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(34px, 9999px, 76px, 0);
+    clip: rect(90px, 9999px, 20px, 0);
   }
   22% {
     height: 4px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(70px, 9999px, 52px, 0);
+    clip: rect(18px, 9999px, 99px, 0);
   }
   24% {
-    height: 20px;
-    -webkit-box-shadow: -195px 48px 0px 0px #ff0000;
-            box-shadow: -195px 48px 0px 0px #ff0000;
+    height: 28px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(40px, 9999px, 99px, 0);
+    clip: rect(22px, 9999px, 1px, 0);
   }
   26% {
-    height: 14px;
-    -webkit-box-shadow: -180px 21px 0px 0px #ff0000;
-            box-shadow: -180px 21px 0px 0px #ff0000;
-    text-shadow: 2px 2px transparent;
-    clip: rect(11px, 9999px, 13px, 0);
-  }
-  28% {
-    height: 22px;
-    -webkit-box-shadow: -233px 30px 0px 0px #0000ff;
-            box-shadow: -233px 30px 0px 0px #0000ff;
-    text-shadow: 2px 2px #ff0000;
-    clip: rect(11px, 9999px, 14px, 0);
-  }
-  30% {
     height: 19px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(28px, 9999px, 54px, 0);
+    clip: rect(57px, 9999px, 96px, 0);
+  }
+  28% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(9px, 9999px, 40px, 0);
+  }
+  30% {
+    height: 29px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(99px, 9999px, 12px, 0);
   }
   32% {
-    height: 17px;
+    height: 24px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(47px, 9999px, 84px, 0);
+    clip: rect(44px, 9999px, 87px, 0);
   }
   34% {
-    height: 20px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(17px, 9999px, 61px, 0);
-  }
-  36% {
-    height: 9px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(86px, 9999px, 19px, 0);
-  }
-  38% {
-    height: 10px;
-    -webkit-box-shadow: -130px 45px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -130px 45px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(61px, 9999px, 57px, 0);
-  }
-  40% {
-    height: 9px;
-    -webkit-box-shadow: -278px 60px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -278px 60px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(7px, 9999px, 43px, 0);
-  }
-  42% {
-    height: 15px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(62px, 9999px, 1px, 0);
-  }
-  44% {
-    height: 30px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
-    clip: rect(17px, 9999px, 75px, 0);
-  }
-  46% {
-    height: 10px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(66px, 9999px, 98px, 0);
-  }
-  48% {
     height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(99px, 9999px, 17px, 0);
+    clip: rect(11px, 9999px, 6px, 0);
+  }
+  36% {
+    height: 30px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(38px, 9999px, 88px, 0);
+  }
+  38% {
+    height: 4px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(30px, 9999px, 62px, 0);
+  }
+  40% {
+    height: 6px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(37px, 9999px, 88px, 0);
+  }
+  42% {
+    height: 24px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(25px, 9999px, 1px, 0);
+  }
+  44% {
+    height: 9px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(59px, 9999px, 42px, 0);
+  }
+  46% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(2px, 9999px, 4px, 0);
+  }
+  48% {
+    height: 1px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(82px, 9999px, 7px, 0);
   }
   50% {
-    height: 1px;
-    -webkit-box-shadow: -299px 15px 0px 0px #ff0000;
-            box-shadow: -299px 15px 0px 0px #ff0000;
-    text-shadow: 2px 2px transparent;
-    clip: rect(38px, 9999px, 19px, 0);
+    height: 5px;
+    -webkit-box-shadow: -190px 26px 0px 0px #ff0000;
+            box-shadow: -190px 26px 0px 0px #ff0000;
+    text-shadow: 2px 2px #0000ff;
+    clip: rect(20px, 9999px, 53px, 0);
   }
   52% {
-    height: 19px;
+    height: 27px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(29px, 9999px, 78px, 0);
+    clip: rect(6px, 9999px, 47px, 0);
   }
   54% {
-    height: 1px;
+    height: 26px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(13px, 9999px, 54px, 0);
+    clip: rect(69px, 9999px, 95px, 0);
   }
   56% {
-    height: 22px;
+    height: 21px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(89px, 9999px, 44px, 0);
+    clip: rect(2px, 9999px, 72px, 0);
   }
   58% {
     height: 22px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(8px, 9999px, 84px, 0);
+    clip: rect(9px, 9999px, 30px, 0);
   }
   60% {
-    height: 1px;
-    -webkit-box-shadow: -291px 49px 0px 0px #ff0000;
-            box-shadow: -291px 49px 0px 0px #ff0000;
+    height: 2px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(66px, 9999px, 10px, 0);
+    clip: rect(45px, 9999px, 23px, 0);
   }
   62% {
-    height: 13px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(57px, 9999px, 2px, 0);
+    clip: rect(22px, 9999px, 28px, 0);
   }
   64% {
-    height: 14px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(93px, 9999px, 100px, 0);
+    clip: rect(11px, 9999px, 65px, 0);
   }
   66% {
+    height: 9px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(63px, 9999px, 68px, 0);
+  }
+  68% {
+    height: 17px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(16px, 9999px, 89px, 0);
+  }
+  70% {
+    height: 4px;
+    -webkit-box-shadow: -116px 46px 0px 0px rgba(248, 12, 255, 0.6);
+            box-shadow: -116px 46px 0px 0px rgba(248, 12, 255, 0.6);
+    text-shadow: 2px 2px transparent;
+    clip: rect(26px, 9999px, 30px, 0);
+  }
+  72% {
+    height: 6px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(92px, 9999px, 89px, 0);
+  }
+  74% {
     height: 8px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(40px, 9999px, 78px, 0);
+    clip: rect(6px, 9999px, 36px, 0);
   }
-  68% {
-    height: 28px;
+  76% {
+    height: 1px;
+    -webkit-box-shadow: -252px 19px 0px 0px #ff0000;
+            box-shadow: -252px 19px 0px 0px #ff0000;
+    text-shadow: 2px 2px transparent;
+    clip: rect(31px, 9999px, 64px, 0);
+  }
+  78% {
+    height: 25px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(72px, 9999px, 30px, 0);
+    clip: rect(37px, 9999px, 97px, 0);
   }
-  70% {
-    height: 29px;
+  80% {
+    height: 22px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(11px, 9999px, 70px, 0);
+    clip: rect(6px, 9999px, 66px, 0);
   }
-  72% {
+  82% {
     height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(90px, 9999px, 100px, 0);
-  }
-  74% {
-    height: 18px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(32px, 9999px, 27px, 0);
-  }
-  76% {
-    height: 12px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(19px, 9999px, 2px, 0);
-  }
-  78% {
-    height: 29px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(14px, 9999px, 92px, 0);
-  }
-  80% {
-    height: 1px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(64px, 9999px, 19px, 0);
-  }
-  82% {
-    height: 10px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(57px, 9999px, 27px, 0);
+    clip: rect(21px, 9999px, 80px, 0);
   }
   84% {
-    height: 8px;
-    -webkit-box-shadow: -205px 44px 0px 0px #ff0000;
-            box-shadow: -205px 44px 0px 0px #ff0000;
+    height: 22px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(85px, 9999px, 82px, 0);
+    clip: rect(73px, 9999px, 29px, 0);
   }
   86% {
-    height: 5px;
-    -webkit-box-shadow: -265px 34px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -265px 34px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(3px, 9999px, 49px, 0);
-  }
-  88% {
-    height: 12px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(35px, 9999px, 42px, 0);
-  }
-  90% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(69px, 9999px, 48px, 0);
-  }
-  92% {
-    height: 4px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(84px, 9999px, 66px, 0);
-  }
-  94% {
-    height: 21px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(88px, 9999px, 75px, 0);
-  }
-  96% {
     height: 7px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(41px, 9999px, 37px, 0);
+    clip: rect(92px, 9999px, 62px, 0);
   }
-  98% {
-    height: 3px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
-    clip: rect(34px, 9999px, 62px, 0);
-  }
-  100% {
-    height: 24px;
+  88% {
+    height: 11px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(9px, 9999px, 10px, 0);
+    clip: rect(97px, 9999px, 36px, 0);
+  }
+  90% {
+    height: 25px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(9px, 9999px, 77px, 0);
+  }
+  92% {
+    height: 12px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(93px, 9999px, 17px, 0);
+  }
+  94% {
+    height: 25px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(72px, 9999px, 100px, 0);
+  }
+  96% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(43px, 9999px, 49px, 0);
+  }
+  98% {
+    height: 15px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(88px, 9999px, 92px, 0);
+  }
+  100% {
+    height: 11px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(28px, 9999px, 39px, 0);
   }
 }
 
 @keyframes intro-glitch {
   0% {
-    height: 21px;
+    height: 18px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(71px, 9999px, 10px, 0);
+    clip: rect(22px, 9999px, 74px, 0);
   }
   2% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(18px, 9999px, 39px, 0);
-  }
-  4% {
-    height: 19px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(24px, 9999px, 9px, 0);
-  }
-  6% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(32px, 9999px, 12px, 0);
-  }
-  8% {
     height: 6px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(75px, 9999px, 49px, 0);
+    clip: rect(55px, 9999px, 49px, 0);
   }
-  10% {
-    height: 26px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(26px, 9999px, 83px, 0);
-  }
-  12% {
+  4% {
     height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(91px, 9999px, 52px, 0);
+    clip: rect(71px, 9999px, 24px, 0);
   }
-  14% {
-    height: 9px;
+  6% {
+    height: 23px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(50px, 9999px, 32px, 0);
+  }
+  8% {
+    height: 8px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px #0000ff;
-    clip: rect(1px, 9999px, 1px, 0);
+    clip: rect(55px, 9999px, 33px, 0);
+  }
+  10% {
+    height: 4px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(94px, 9999px, 19px, 0);
+  }
+  12% {
+    height: 20px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(58px, 9999px, 28px, 0);
+  }
+  14% {
+    height: 16px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(7px, 9999px, 90px, 0);
   }
   16% {
-    height: 5px;
+    height: 17px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(16px, 9999px, 16px, 0);
+    clip: rect(44px, 9999px, 94px, 0);
   }
   18% {
-    height: 29px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(94px, 9999px, 24px, 0);
+    clip: rect(26px, 9999px, 47px, 0);
   }
   20% {
-    height: 21px;
+    height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(34px, 9999px, 76px, 0);
+    clip: rect(90px, 9999px, 20px, 0);
   }
   22% {
     height: 4px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(70px, 9999px, 52px, 0);
+    clip: rect(18px, 9999px, 99px, 0);
   }
   24% {
-    height: 20px;
-    -webkit-box-shadow: -195px 48px 0px 0px #ff0000;
-            box-shadow: -195px 48px 0px 0px #ff0000;
+    height: 28px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(40px, 9999px, 99px, 0);
+    clip: rect(22px, 9999px, 1px, 0);
   }
   26% {
-    height: 14px;
-    -webkit-box-shadow: -180px 21px 0px 0px #ff0000;
-            box-shadow: -180px 21px 0px 0px #ff0000;
-    text-shadow: 2px 2px transparent;
-    clip: rect(11px, 9999px, 13px, 0);
-  }
-  28% {
-    height: 22px;
-    -webkit-box-shadow: -233px 30px 0px 0px #0000ff;
-            box-shadow: -233px 30px 0px 0px #0000ff;
-    text-shadow: 2px 2px #ff0000;
-    clip: rect(11px, 9999px, 14px, 0);
-  }
-  30% {
     height: 19px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(28px, 9999px, 54px, 0);
+    clip: rect(57px, 9999px, 96px, 0);
+  }
+  28% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(9px, 9999px, 40px, 0);
+  }
+  30% {
+    height: 29px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(99px, 9999px, 12px, 0);
   }
   32% {
-    height: 17px;
+    height: 24px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(47px, 9999px, 84px, 0);
+    clip: rect(44px, 9999px, 87px, 0);
   }
   34% {
-    height: 20px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(17px, 9999px, 61px, 0);
-  }
-  36% {
-    height: 9px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(86px, 9999px, 19px, 0);
-  }
-  38% {
-    height: 10px;
-    -webkit-box-shadow: -130px 45px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -130px 45px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(61px, 9999px, 57px, 0);
-  }
-  40% {
-    height: 9px;
-    -webkit-box-shadow: -278px 60px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -278px 60px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(7px, 9999px, 43px, 0);
-  }
-  42% {
-    height: 15px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(62px, 9999px, 1px, 0);
-  }
-  44% {
-    height: 30px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
-    clip: rect(17px, 9999px, 75px, 0);
-  }
-  46% {
-    height: 10px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(66px, 9999px, 98px, 0);
-  }
-  48% {
     height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(99px, 9999px, 17px, 0);
+    clip: rect(11px, 9999px, 6px, 0);
+  }
+  36% {
+    height: 30px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(38px, 9999px, 88px, 0);
+  }
+  38% {
+    height: 4px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(30px, 9999px, 62px, 0);
+  }
+  40% {
+    height: 6px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(37px, 9999px, 88px, 0);
+  }
+  42% {
+    height: 24px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(25px, 9999px, 1px, 0);
+  }
+  44% {
+    height: 9px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(59px, 9999px, 42px, 0);
+  }
+  46% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(2px, 9999px, 4px, 0);
+  }
+  48% {
+    height: 1px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(82px, 9999px, 7px, 0);
   }
   50% {
-    height: 1px;
-    -webkit-box-shadow: -299px 15px 0px 0px #ff0000;
-            box-shadow: -299px 15px 0px 0px #ff0000;
-    text-shadow: 2px 2px transparent;
-    clip: rect(38px, 9999px, 19px, 0);
+    height: 5px;
+    -webkit-box-shadow: -190px 26px 0px 0px #ff0000;
+            box-shadow: -190px 26px 0px 0px #ff0000;
+    text-shadow: 2px 2px #0000ff;
+    clip: rect(20px, 9999px, 53px, 0);
   }
   52% {
-    height: 19px;
+    height: 27px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(29px, 9999px, 78px, 0);
+    clip: rect(6px, 9999px, 47px, 0);
   }
   54% {
-    height: 1px;
+    height: 26px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(13px, 9999px, 54px, 0);
+    clip: rect(69px, 9999px, 95px, 0);
   }
   56% {
-    height: 22px;
+    height: 21px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(89px, 9999px, 44px, 0);
+    clip: rect(2px, 9999px, 72px, 0);
   }
   58% {
     height: 22px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(8px, 9999px, 84px, 0);
+    clip: rect(9px, 9999px, 30px, 0);
   }
   60% {
-    height: 1px;
-    -webkit-box-shadow: -291px 49px 0px 0px #ff0000;
-            box-shadow: -291px 49px 0px 0px #ff0000;
+    height: 2px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(66px, 9999px, 10px, 0);
+    clip: rect(45px, 9999px, 23px, 0);
   }
   62% {
-    height: 13px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(57px, 9999px, 2px, 0);
+    clip: rect(22px, 9999px, 28px, 0);
   }
   64% {
-    height: 14px;
+    height: 3px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(93px, 9999px, 100px, 0);
+    clip: rect(11px, 9999px, 65px, 0);
   }
   66% {
+    height: 9px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(63px, 9999px, 68px, 0);
+  }
+  68% {
+    height: 17px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(16px, 9999px, 89px, 0);
+  }
+  70% {
+    height: 4px;
+    -webkit-box-shadow: -116px 46px 0px 0px rgba(248, 12, 255, 0.6);
+            box-shadow: -116px 46px 0px 0px rgba(248, 12, 255, 0.6);
+    text-shadow: 2px 2px transparent;
+    clip: rect(26px, 9999px, 30px, 0);
+  }
+  72% {
+    height: 6px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(92px, 9999px, 89px, 0);
+  }
+  74% {
     height: 8px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(40px, 9999px, 78px, 0);
+    clip: rect(6px, 9999px, 36px, 0);
   }
-  68% {
-    height: 28px;
+  76% {
+    height: 1px;
+    -webkit-box-shadow: -252px 19px 0px 0px #ff0000;
+            box-shadow: -252px 19px 0px 0px #ff0000;
+    text-shadow: 2px 2px transparent;
+    clip: rect(31px, 9999px, 64px, 0);
+  }
+  78% {
+    height: 25px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(72px, 9999px, 30px, 0);
+    clip: rect(37px, 9999px, 97px, 0);
   }
-  70% {
-    height: 29px;
+  80% {
+    height: 22px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(11px, 9999px, 70px, 0);
+    clip: rect(6px, 9999px, 66px, 0);
   }
-  72% {
+  82% {
     height: 13px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(90px, 9999px, 100px, 0);
-  }
-  74% {
-    height: 18px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(32px, 9999px, 27px, 0);
-  }
-  76% {
-    height: 12px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(19px, 9999px, 2px, 0);
-  }
-  78% {
-    height: 29px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(14px, 9999px, 92px, 0);
-  }
-  80% {
-    height: 1px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(64px, 9999px, 19px, 0);
-  }
-  82% {
-    height: 10px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(57px, 9999px, 27px, 0);
+    clip: rect(21px, 9999px, 80px, 0);
   }
   84% {
-    height: 8px;
-    -webkit-box-shadow: -205px 44px 0px 0px #ff0000;
-            box-shadow: -205px 44px 0px 0px #ff0000;
+    height: 22px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(85px, 9999px, 82px, 0);
+    clip: rect(73px, 9999px, 29px, 0);
   }
   86% {
-    height: 5px;
-    -webkit-box-shadow: -265px 34px 0px 0px rgba(248, 12, 255, 0.6);
-            box-shadow: -265px 34px 0px 0px rgba(248, 12, 255, 0.6);
-    text-shadow: 2px 2px transparent;
-    clip: rect(3px, 9999px, 49px, 0);
-  }
-  88% {
-    height: 12px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(35px, 9999px, 42px, 0);
-  }
-  90% {
-    height: 5px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(69px, 9999px, 48px, 0);
-  }
-  92% {
-    height: 4px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(84px, 9999px, 66px, 0);
-  }
-  94% {
-    height: 21px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px transparent;
-    clip: rect(88px, 9999px, 75px, 0);
-  }
-  96% {
     height: 7px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(41px, 9999px, 37px, 0);
+    clip: rect(92px, 9999px, 62px, 0);
   }
-  98% {
-    height: 3px;
-    -webkit-box-shadow: -13px -15px -100px 0px transparent;
-            box-shadow: -13px -15px -100px 0px transparent;
-    text-shadow: 2px 2px rgba(248, 12, 255, 0.6);
-    clip: rect(34px, 9999px, 62px, 0);
-  }
-  100% {
-    height: 24px;
+  88% {
+    height: 11px;
     -webkit-box-shadow: -13px -15px -100px 0px transparent;
             box-shadow: -13px -15px -100px 0px transparent;
     text-shadow: 2px 2px transparent;
-    clip: rect(9px, 9999px, 10px, 0);
+    clip: rect(97px, 9999px, 36px, 0);
+  }
+  90% {
+    height: 25px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(9px, 9999px, 77px, 0);
+  }
+  92% {
+    height: 12px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(93px, 9999px, 17px, 0);
+  }
+  94% {
+    height: 25px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(72px, 9999px, 100px, 0);
+  }
+  96% {
+    height: 3px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(43px, 9999px, 49px, 0);
+  }
+  98% {
+    height: 15px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(88px, 9999px, 92px, 0);
+  }
+  100% {
+    height: 11px;
+    -webkit-box-shadow: -13px -15px -100px 0px transparent;
+            box-shadow: -13px -15px -100px 0px transparent;
+    text-shadow: 2px 2px transparent;
+    clip: rect(28px, 9999px, 39px, 0);
   }
 }
 

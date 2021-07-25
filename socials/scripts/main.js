@@ -4,11 +4,31 @@ import {
 } from "../../shared_scripts/encoder.js";
 
 decypherEffect(document.getElementById("title"));
-decypherEffect(document.getElementById("projects"), 80, 200);
-decypherEffect(document.getElementById("videos"), 100, 600);
-decypherEffect(document.getElementById("about"), 100, 1000);
 //readFileToElem("./misc/code.txt", document.getElementById("code"));
 readFilesToElem(
   ["../../shared_scripts/encoder.js", "./index.html"],
   document.getElementById("code")
 );
+
+var nodesjs = new NodesJs({
+  // container ID
+  id: "nodeParticles",
+
+  // width
+  width: window.innerWidth,
+
+  // height
+  height: window.innerHeight,
+
+  nobg: true,
+
+  // the number of particles
+  number: window.hasOwnProperty("orientation") ? 30 : 100,
+
+  // animation speed
+  speed: 20,
+
+  pointerCircleRadius: 80,
+
+  number: 20,
+});
